@@ -1,0 +1,199 @@
+
+  - id: "00ac-0045-74dc"
+    web:
+      metaDescription: ""
+      metaTitle: "Our Awards"
+      metaLinkText: "Our Awards"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 140
+      listed: true
+    data:
+      external_url: null
+      internal_link: "b8dd-75eb-2c68"
+      nav_parent: "de83-b52f-2d19"
+      sort_order: 1
+      title: "Our Awards"
+  - id: "28b1-4a91-56d9"
+    web:
+      metaDescription: ""
+      metaTitle: "Magna Wave"
+      metaLinkText: "Magna Wave"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 135
+      listed: true
+    data:
+      external_url: null
+      internal_link: "bf6c-9ec4-5dae"
+      nav_parent: "de83-b52f-2d19"
+      sort_order: 3
+      title: "Magna Wave"
+  - id: "2309-a12f-47da"
+    web:
+      metaDescription: ""
+      metaTitle: "Online Pharmacy"
+      metaLinkText: "Online Pharmacy"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 138
+      listed: true
+    data:
+      external_url: "https://cornerstoneanimal.myvetstoreonline.pharmacy/"
+      internal_link: null
+      nav_parent: "0"
+      sort_order: 4
+      title: "Online Pharmacy"
+  - id: "2ecc-2f6c-4a9f"
+    web:
+      metaDescription: ""
+      metaTitle: "Resources"
+      metaLinkText: "Resources"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 105
+      listed: true
+    data:
+      external_url: null
+      internal_link: "6d3b-531d-1cf7"
+      nav_parent: "0"
+      sort_order: 3
+      title: "Resources"
+  - id: "898f-80fc-994a"
+    web:
+      metaDescription: ""
+      metaTitle: "Contact"
+      metaLinkText: "Contact"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 102
+      listed: true
+    data:
+      external_url: null
+      internal_link: "bdef-f8f2-a290"
+      nav_parent: "0"
+      sort_order: 5
+      title: "Contact"
+  - id: "de83-b52f-2d19"
+    web:
+      metaDescription: ""
+      metaTitle: "About"
+      metaLinkText: "About"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 103
+      listed: true
+    data:
+      external_url: null
+      internal_link: "917f-7361-dc24"
+      nav_parent: "0"
+      sort_order: 2
+      title: "About"
+  - id: "fa43-2966-1152"
+    web:
+      metaDescription: ""
+      metaTitle: "Services"
+      metaLinkText: "Services"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 111
+      listed: true
+    data:
+      external_url: null
+      internal_link: "b2c2-9a9d-12ab"
+      nav_parent: "0"
+      sort_order: 2
+      title: "Services"
+  - id: "8b68-ec56-a9e1"
+    web:
+      metaDescription: ""
+      metaTitle: "Home"
+      metaLinkText: "Home"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 100
+      listed: true
+    data:
+      external_url: null
+      internal_link: "4c7e-86c3-f2e4"
+      nav_parent: "0"
+      sort_order: 1
+      title: "Home"
+  - id: "4013-5bc0-62d0"
+    web:
+      metaDescription: ""
+      metaTitle: "Blog"
+      metaLinkText: "Blog"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 101
+      listed: false
+    data:
+      external_url: null
+      internal_link: "b7a5-f64e-0cdc"
+      nav_parent: null
+      sort_order: 4
+      title: "Blog"

@@ -1,0 +1,45 @@
+
+  - id: "3ca5-71ba-269b"
+    web:
+      metaDescription: "Dr. Sam Dalton graduated from the University of Georgia with a Bachelors of Science in Agriculture in 2014. She became a &ldquo;double-dawg&rdquo; by graduating"
+      metaTitle: "Sam Dalton, DVM"
+      metaLinkText: "Sam Dalton, DVM"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 114
+      listed: true
+    data:
+      bio_content: "<p>Dr. Sam Dalton graduated from the University of Georgia with a Bachelors of Science in Agriculture in 2014. She became a &ldquo;double-dawg&rdquo; by graduating from UGA again with her Doctorate in Veterinary Medicine in 2019 with an emphasis in Mixed Animal Medicine and with accolades in large animal internal medicine and surgery. Dr. Sam adores working with both our large and small animal friends. She and her husband, Zack, spend their free time taking care of their funny farm which includes a small herd of commercial cattle, horses, goats, kitties and their ever-faithful doggies Morgan and Miller.</p>\n<div></div>\n<p></p>"
+      image: "https://b3lcpxnn.media.zestyio.com/sam.jpg"
+      job_title: null
+      name: "Sam Dalton, DVM"
+      sort_order: 2
+  - id: "f5ef-3a6a-fe5e"
+    web:
+      metaDescription: "Dr. Emily Allison graduated from the University of Georgia in 2007 with a Bachelor&rsquo;s of Science in Agriculture. She also went to veterinary school at the "
+      metaTitle: "Emily Allison, DVM"
+      metaLinkText: "Emily Allison, DVM"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 113
+      listed: true
+    data:
+      bio_content: "<p>Dr. Emily Allison graduated from the University of Georgia in 2007 with a Bachelor&rsquo;s of Science in Agriculture. She also went to veterinary school at the University of Georgia and graduated as a Doctor of Veterinary Medicine in 2012. Dr. Emily worked as an associate veterinarian for four years before opening Cornerstone Animal Hospital in Alto, Georgia in May of 2016. In their free time, Dr. Emily and her husband, Jeremy, enjoy eating hot wings, spending time with their family and friends, and loving on all of their four-legged critters. She takes pride in always providing compassionate and courteous care for all of her patient and clients as well.</p>\n<p></p>"
+      image: "https://b3lcpxnn.media.zestyio.com/EmilyWebsite-e1502909616965-239x300.jpg"
+      job_title: null
+      name: "Emily Allison, DVM"
+      sort_order: 1

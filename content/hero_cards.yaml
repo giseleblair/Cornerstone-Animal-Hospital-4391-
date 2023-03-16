@@ -1,0 +1,101 @@
+
+  - id: "45ed-91ab-1bf4"
+    web:
+      metaDescription: ""
+      metaTitle: "Our Hours"
+      metaLinkText: "Our Hours"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 19
+      listed: true
+    data:
+      boxicon: "bx-time"
+      button_link_external: ""
+      button_link_internal: "bdef-f8f2-a290"
+      button_new_tab: 0
+      button_text: "Contact Us"
+      content: "Monday - Friday</br>\n8:30am - 5:30pm</br>\nSaturday 9am - 1pm 1st and 3rd Saturday of the month</br>\n\n"
+      sort_order: 3
+      title: "Our Hours"
+  - id: "077b-9dc7-a7d2"
+    web:
+      metaDescription: ""
+      metaTitle: "Find Us"
+      metaLinkText: "Find Us"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 20
+      listed: true
+    data:
+      boxicon: "bx-bone"
+      button_link_external: ""
+      button_link_internal: "b2c2-9a9d-12ab"
+      button_new_tab: 0
+      button_text: "Services"
+      content: "We offer a variety of Horse/Equine Services from preventative care to surgery and more..."
+      sort_order: 2
+      title: "Large Animals"
+  - id: "997e-6d92-593c"
+    web:
+      metaDescription: ""
+      metaTitle: "Online Booking"
+      metaLinkText: "Online Booking"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 17
+      listed: true
+    data:
+      boxicon: "bx-bone"
+      button_link_external: ""
+      button_link_internal: "b2c2-9a9d-12ab"
+      button_new_tab: 0
+      button_text: "Services"
+      content: "Because of the shorter lifespan of our pets, we stress the importance of an annual physical examination with other vet services. \n"
+      sort_order: 1
+      title: "Small Animals"
+  - id: "12e6-b2b3-1e75"
+    web:
+      metaDescription: ""
+      metaTitle: "Emergencies"
+      metaLinkText: "Emergencies"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 18
+      listed: true
+    data:
+      boxicon: "bx-plus-medical"
+      button_link_external: "https://cornerstoneanimal.myvetstoreonline.pharmacy/"
+      button_link_internal: ""
+      button_new_tab: 1
+      button_text: "Online Pharmacy"
+      content: "Get your pet's medications and preventatives delivered directly to your door!"
+      sort_order: 3
+      title: "Online Pharmacy"

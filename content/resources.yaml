@@ -1,0 +1,24 @@
+
+  - id: "6d3b-531d-1cf7"
+    web:
+      metaDescription: ""
+      metaTitle: "Resources"
+      metaLinkText: "Resources"
+      metaKeywords: null
+      pathPart: "resources"
+      path: "/resources/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 5
+      listed: true
+    data:
+      content: "<p style=\"text-align: center;\"><span data-slate-fragment=\"JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJpc1ZvaWQlMjIlM0FmYWxzZSUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMldlJTIwbm93JTIwb2ZmZXIlMjB5b3UlMjBhbiUyMGVhc2llciUyMHdheSUyMHRvJTIwdGFrZSUyMGNhcmUlMjBvZiUyMHlvdXIlMjBwZXQuJTIwUmVxdWVzdCUyMGFwcG9pbnRtZW50cyUyQyUyMG1lZGljYXRpb24lMjByZWZpbGxzJTJDJTIwYW5kJTIwZ2V0JTIwYWxlcnRzJTIwd2hlbiUyMHlvdXIlMjBwZXQlMjBpcyUyMGNvbWluZyUyMGR1ZSUyMGZvciUyMG1lZGljYWwlMjBjYXJlLiU1Q24lMjIlMkMlMjJtYXJrcyUyMiUzQSU1QiU1RCU3RCU1RCU3RCU1RCU3RCU1RCU3RA==\">We now offer you an easier way to take care of your pet. </span></p>\n<p style=\"text-align: center;\"><span data-slate-fragment=\"JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJpc1ZvaWQlMjIlM0FmYWxzZSUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMldlJTIwbm93JTIwb2ZmZXIlMjB5b3UlMjBhbiUyMGVhc2llciUyMHdheSUyMHRvJTIwdGFrZSUyMGNhcmUlMjBvZiUyMHlvdXIlMjBwZXQuJTIwUmVxdWVzdCUyMGFwcG9pbnRtZW50cyUyQyUyMG1lZGljYXRpb24lMjByZWZpbGxzJTJDJTIwYW5kJTIwZ2V0JTIwYWxlcnRzJTIwd2hlbiUyMHlvdXIlMjBwZXQlMjBpcyUyMGNvbWluZyUyMGR1ZSUyMGZvciUyMG1lZGljYWwlMjBjYXJlLiU1Q24lMjIlMkMlMjJtYXJrcyUyMiUzQSU1QiU1RCU3RCU1RCU3RCU1RCU3RCU1RCU3RA==\">Request appointments, medication refills, and get alerts when your pet is coming due for medical care.<br /></span></p>"
+      display_patient_forms: 1
+      display_pet_desk_banner: 1
+      image: "https://ddp2ys.media.zestyio.com/pets-two-dogs-spaniel-pug.jpg"
+      image_alt: "dog"
+      title: "Resources"

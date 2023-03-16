@@ -1,0 +1,39 @@
+
+  - id: "c00a-db75-0b60"
+    web:
+      metaDescription: ""
+      metaTitle: "Our Patients"
+      metaLinkText: "Our Patients"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 22
+      listed: true
+    data:
+      sort_order: 2
+      title: "Our Patients"
+  - id: "0f67-5a91-14b0"
+    web:
+      metaDescription: ""
+      metaTitle: "Our Office"
+      metaLinkText: "Our Office"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 21
+      listed: true
+    data:
+      sort_order: 1
+      title: "Our Office"

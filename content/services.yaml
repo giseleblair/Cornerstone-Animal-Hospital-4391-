@@ -1,0 +1,301 @@
+
+  - id: "2970-de18-fda7"
+    web:
+      metaDescription: ""
+      metaTitle: "<strong>Small Animal Services</strong>"
+      metaLinkText: "<strong>Small Animal Services</strong>"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 132
+      listed: true
+    data:
+      content: null
+      sort_order: 0
+      title: "<strong>SMALL ANIMAL SERVICES</strong>"
+  - id: "59b6-0fd3-a64a"
+    web:
+      metaDescription: "Preventive Care\n\nVaccinations\nParasite Control\nHerd Health Consultation\nBreeding management and nutrition\nFarm/Ranch Calls\n\nDiagnostics\n\nInternal Medicine\nIn-Ho"
+      metaTitle: "Cattle/Sheep/Goat Services"
+      metaLinkText: "Cattle/Sheep/Goat Services"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 130
+      listed: true
+    data:
+      content: "<p><strong>Preventive Care</strong></p>\n<p>Vaccinations, Parasite Control, Herd Health Consultation, Breeding management and nutrition, Farm/Ranch Calls</p>\n<p><strong>Diagnostics</strong></p>\n<p>Internal Medicine, In-House and Outside Lab Services, <span id=\"ctl00_ctl00_ctl00_MainContent_Content_IssueFields_Description\">we now offer mobile large animal radiology.</span></p>\n<p><strong>Surgery</strong></p>\n<p>Soft tissue Routine castration</p>\n<p>&nbsp;</p>"
+      sort_order: 12
+      title: "Cattle/Sheep/Goat Services"
+  - id: "24b1-b7ff-4044"
+    web:
+      metaDescription: "We provide routine and sick pig care for FFA, 4-H, pet pigs, and other show pigs. Services we provide include but are not limited to:\n\nVaccinations\nParasite Con"
+      metaTitle: "Porcine/Pig Services"
+      metaLinkText: "Porcine/Pig Services"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 131
+      listed: true
+    data:
+      content: "<p><strong>We provide routine and sick pig care for FFA, 4-H, pet pigs, and other show pigs. Services we provide include but are not limited to</strong>:</p>\n<p>Vaccinations, Parasite Control/Deworming, Nutrition, Minor Health Issues- Lameness, Skin Issues, Respiratory Disease, Vomiting/Diarrhea, Farm/Ranch Calls</p>"
+      sort_order: 12
+      title: "Porcine/Pig Services"
+  - id: "446a-93b1-d582"
+    web:
+      metaDescription: "Preventive Care\n\nVaccinations\nDeworming\nWellness exams\nMicrochipping\nPre-Purchase Exams\nFarm/Ranch Calls\n\nDiagnostics\n\nInternal Medicine\nLameness Evaluation\nIn-"
+      metaTitle: "Horse/Equine Services"
+      metaLinkText: "Horse/Equine Services"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 129
+      listed: true
+    data:
+      content: "<p><strong>Preventive Care</strong></p>\n<p>Vaccinations, Deworming, Wellness exams, Microchipping, Pre-Purchase Exams, Farm/Ranch Calls</p>\n<p><strong>Diagnostics</strong></p>\n<p>Internal Medicine, Lameness Evaluation, In-house and Outside Lab Services, Intestinal Parasite Exams, <span id=\"ctl00_ctl00_ctl00_MainContent_Content_IssueFields_Description\">Mobile large animal radiology.</span></p>\n<p><strong>Surgery</strong></p>\n<p>Soft tissue, Routine castration</p>\n<p><strong>Dental Services</strong></p>\n<p>Routine and Performance Power Floats, Wolf teeth and Cap Extractions, General Extractions</p>"
+      sort_order: 11
+      title: "Horse/Equine Services"
+  - id: "bc18-f2cc-db34"
+    web:
+      metaDescription: ""
+      metaTitle: "<STRONG>LARGE ANIMAL SERVICES</STRONG>"
+      metaLinkText: "<STRONG>LARGE ANIMAL SERVICES</STRONG>"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 133
+      listed: true
+    data:
+      content: null
+      sort_order: 10
+      title: "<STRONG>LARGE ANIMAL SERVICES</STRONG>"
+  - id: "65bd-ee52-1267"
+    web:
+      metaDescription: "We will provide guidance regarding your pet&rsquo;s nutritional needs for each life stage, including dietary requirements for growth, weight maintenance, and pe"
+      metaTitle: "Dietary Counseling"
+      metaLinkText: "Dietary Counseling"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 127
+      listed: true
+    data:
+      content: "<p>We will provide guidance regarding your pet&rsquo;s nutritional needs for each life stage, including dietary requirements for growth, weight maintenance, and performance.</p>"
+      sort_order: 10
+      title: "Dietary Counseling"
+  - id: "33d3-38a9-6407"
+    web:
+      metaDescription: "We maintain a complete inventory of pharmaceuticals, vitamins, shampoos, flea and tick control products and heartworm preventatives to meet the needs of your pe"
+      metaTitle: "Pharmacy"
+      metaLinkText: "Pharmacy"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 126
+      listed: true
+    data:
+      content: "<p>We maintain a complete inventory of pharmaceuticals, vitamins, shampoos, flea and tick control products and heartworm preventatives to meet the needs of your pet. We also carry prescription and non-prescription diets as well as treats.</p>"
+      sort_order: 9
+      title: "Pharmacy"
+  - id: "dff0-bcc9-9936"
+    web:
+      metaDescription: "Microchipping has become a very popular and safe way to permanently identify your pet and you as the owner in the unfortunate case that your pet is lost. Microc"
+      metaTitle: "Permanent Identification"
+      metaLinkText: "Permanent Identification"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 125
+      listed: true
+    data:
+      content: "<p>Microchipping has become a very popular and safe way to permanently identify your pet and you as the owner in the unfortunate case that your pet is lost. Microchipping involves placement of a small electronic chip the size and shape of a piece of rice just under the skin in the neck area. A needle is used to inject the chip. After you register, there are no annual fees or contracts involved.</p>\n<p>If your pet becomes lost and is transported to a humane society, the humane society will be able to scan your pet for the chip and contact you. The scanner is similar to a scanner found in the grocery store. Always make sure you keep your information updated. We advise you to use this system of identification as well as a collar identification system on your pet.</p>"
+      sort_order: 8
+      title: "Permanent Identification"
+  - id: "a1a9-3bad-65b0"
+    web:
+      metaDescription: "Our in-house laboratory facilities provide for serum chemistry, hematology, serology, urinalysis and parasite testing. We also utilize reference veterinary labo"
+      metaTitle: "Laboratory"
+      metaLinkText: "Laboratory"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 124
+      listed: true
+    data:
+      content: "<p>Our in-house laboratory facilities provide for serum chemistry, hematology, serology, urinalysis and parasite testing. We also utilize reference veterinary laboratories for specialized diagnostics and consultations.</p>\n<p></p>"
+      sort_order: 7
+      title: "Laboratory"
+  - id: "f307-6b04-11f1"
+    web:
+      metaDescription: "Pets can live more comfortable lives if oral health care is managed and maintained. All members of the&nbsp;veterinary team&nbsp;here at Cornerstone Animal Hosp"
+      metaTitle: "Dentistry"
+      metaLinkText: "Dentistry"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 123
+      listed: true
+    data:
+      content: "<p>Pets can live more comfortable lives if oral health care is managed and maintained. All members of the&nbsp;<a href=\"https://www.cornerstoneanimal.net/meet-our-team/\">veterinary team</a>&nbsp;here at Cornerstone Animal Hospital must strive to increase the quality of dental care delivered to your pet.</p>\n<p>During dental procedures at our hospital, the patient is monitored by a technician while the other technician scales and polishes the teeth. We ensure your pet&rsquo;s stability by monitoring respiration rate, blood oxygen level, heart rate/rhythm, ECG, temperature, and CO2. Throughout the procedure, the Veterinarian is also monitoring the patient and supervising the technicians. Any necessary extractions are noted by the doctor and the patient&rsquo;s owners are then contacted for approval of extractions while the patient is still under anesthesia. After the procedure, we then monitor the patient to ensure proper recovery and remove the IV catheter once the patient is fully awake and well stabilized.</p>\n<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src=\"https://b3lcpxnn.media.zestyio.com/dentalafter-225x300.jpg\" data-id=\"3-b7d2fff-fie2f\" title=\"dentalafter-225x300.jpg\" alt=\"dentalafter-225x300.jpg\" /> <img src=\"https://b3lcpxnn.media.zestyio.com/dentalbefore-225x300.jpg\" data-id=\"3-b7d3001-lk48n\" title=\"dentalbefore-225x300.jpg\" alt=\"dentalbefore-225x300.jpg\" /></p>"
+      sort_order: 5
+      title: "Dentistry"
+  - id: "c988-0448-eb57"
+    web:
+      metaDescription: "We offer onsite state of the art digital radiographs (x-rays). Digital radiographs allow us to take sharper images that can be enlarged as well as lighten and d"
+      metaTitle: "Radiology Services"
+      metaLinkText: "Radiology Services"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 122
+      listed: true
+    data:
+      content: "<p>We offer onsite state of the art digital radiographs (x-rays). Digital radiographs allow us to take sharper images that can be enlarged as well as lighten and darken to best visualize different body parts on a single image. This allows us to get diagnostic images with fewer shots reducing your pet&rsquo;s exposure to radiation as well as saving you money. Images created in a digital format also make it much easier to make copies of your pet&rsquo;s x-rays for referral or travel if needed.</p>\n<p></p>"
+      sort_order: 5
+      title: "Radiology Services"
+  - id: "1859-a851-1cd7"
+    web:
+      metaDescription: ""
+      metaTitle: "Service 3"
+      metaLinkText: "Service 3"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 34
+      listed: true
+    data:
+      content: "<p>We make every effort to make anesthesia as safe as possible, especially for our older or higher-risk patients. We offer pre-anesthetic blood-work profiles that can be done in-house on the same day as the surgical procedure. During anesthesia, we monitor multiple vital signs including but not limited to heart rate, respiratory rate, ECG, SpO2, CO2, and blood pressure. A heated surgical table is used to help combat any decrease in body temperature often caused by anesthesia. While your pet is asleep a technician is assigned to monitoring visible vital signs as well the readings on the electronic monitor to make sure your pet is not only safe but also as pain-free as possible during all procedures.</p>\n<p><br /><br /></p>"
+      sort_order: 3
+      title: "Anesthesia"
+  - id: "2b7b-fc34-ed04"
+    web:
+      metaDescription: "Our internal medicine vet services allow for diagnosis of most medical conditions affecting pets. We begin with a comprehensive examination. The examination fin"
+      metaTitle: "Internal Medicine"
+      metaLinkText: "Internal Medicine"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 121
+      listed: true
+    data:
+      content: "<p>Our internal medicine vet services allow for diagnosis of most medical conditions affecting pets. We begin with a comprehensive examination. The examination findings are then used to determine a diagnostic plan that usually can be done in our hospital within one to two days.</p>\n<p>Our hospital possesses up-to-date diagnostic equipment including a complete laboratory, digital radiology (x-rays), etc.&nbsp;After an accurate diagnosis is made, our complete pharmacy allows us to begin treatment immediately, whether treatment consists of outpatient care or intensive care in the hospital.</p>"
+      sort_order: 4
+      title: "Internal Medicine"
+  - id: "1227-59e8-f6a2"
+    web:
+      metaDescription: ""
+      metaTitle: "Service 2"
+      metaLinkText: "Service 2"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 33
+      listed: true
+    data:
+      content: "<p>Our experienced veterinarian provides many surgical vet services at our clinic, ranging from routine to advanced procedures. Because we want to ensure that our patients receive the best possible outcome, we occasionally refer them to specialists (board-certified veterinary surgeons) to perform complex operations when advanced equipment or training will be beneficial. Our veterinary team takes every precaution so that your pet receives the highest-quality care. We perform a physical exam, recommend pre-anesthetic testing before surgery, monitor your pet during surgery, and provide appropriate pain medication to keep your pet comfortable during recovery.</p>\n<p>Preanesthetic testing is recommended for every patient and required for every patient 7 years of age and older. Blood is drawn to run tests that allow us to tailor an appropriate anesthesia protocol for each individual patient. An intravenous catheter is then placed to administer fluids that will keep your pet hydrated, and also to administer medications in the rare case of an emergency during the procedure. This is all done prior to sedating to make sure the patient not only looks healthy but has appropriate organ function as well. After the doctor examines the patient and reviews blood work, then we begin the process of sedating and initiating the procedure.</p>"
+      sort_order: 2
+      title: "Surgical Services"
+  - id: "a970-e82d-14d5"
+    web:
+      metaDescription: ""
+      metaTitle: "Service 1"
+      metaLinkText: "Service 1"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 32
+      listed: true
+    data:
+      content: "<p>Including all of your pet&rsquo;s annual vaccinations. We recommend annual wellness exams, blood testing, and vaccinations to keep your dog or cat healthy and to diagnose and treat problems before they become serious.</p>\n<p>We also recommend annual and semi-annual testing for various parasites, along with year-round parasite prevention.</p>\n<p><br /><br /></p>"
+      sort_order: 1
+      title: "Canine and Feline Wellness Programs"

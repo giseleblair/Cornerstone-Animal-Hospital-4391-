@@ -1,0 +1,377 @@
+
+  - referenceName: "primary_brand"
+    name: "Primary Color"
+    sort: 1
+    type: "color"
+    value: "#3e7f84"
+    description: "#c00c42"
+    category: 1
+    options: null
+  - referenceName: "font-family-base"
+    name: "Main Body Font"
+    sort: 1
+    type: "font_picker"
+    value: "Open Sans:ital"
+    description: null
+    category: 2
+    options: null
+  - referenceName: "default_border_radius"
+    name: "Default Border Radius"
+    sort: 1
+    type: "text"
+    value: "10px"
+    description: "The default curvature for borders around elements. Use px unit."
+    category: 7
+    options: null
+  - referenceName: "link-color"
+    name: "Link Color"
+    sort: 1
+    type: "dropdown"
+    value: "1_primary"
+    description: null
+    category: 3
+    options: "{\"1_primary\":\"Primary\",\"2_secondary\":\"Secondary\",\"3_success\":\"Accent Color\",\"4_info\":\"Accent 2\",\"7_light\":\"Light\",\"8_dark\":\"Dark\",\"white\":\"White\"}"
+  - referenceName: "nav-link-padding"
+    name: "Navigation Link Padding"
+    sort: 1
+    type: "text"
+    value: "10px 15px"
+    description: "Padding around navigation links. Default: 10px 15px"
+    category: 4
+    options: null
+  - referenceName: "sidebar-bg-color"
+    name: "Sidebar Background Color"
+    sort: 1
+    type: "dropdown"
+    value: "7_light"
+    description: "Background color for sidebar. Default: Light"
+    category: 5
+    options: "{\"1_primary\":\"Primary\",\"2_secondary\":\"Secondary\",\"3_success\":\"Accent Color\",\"4_info\":\"Accent 2\",\"7_light\":\"Light\",\"8_dark\":\"Dark\",\"white\":\"White\"}"
+  - referenceName: "btn-border-radius-base"
+    name: "Button Border Radius"
+    sort: 1
+    type: "text"
+    value: "50px"
+    description: null
+    category: 6
+    options: null
+  - referenceName: "secondary_color"
+    name: "Secondary Color"
+    sort: 2
+    type: "color"
+    value: "#e0d2ae"
+    description: "Secondary color."
+    category: 1
+    options: null
+  - referenceName: "text-color"
+    name: "Default Text Color"
+    sort: 2
+    type: "color"
+    value: "#111111"
+    description: "NULL"
+    category: 2
+    options: null
+  - referenceName: "link-hover-color"
+    name: "Link Hover Color"
+    sort: 2
+    type: "dropdown"
+    value: "1_primary"
+    description: null
+    category: 3
+    options: "{\"1_primary\":\"Primary\",\"2_secondary\":\"Secondary\",\"3_success\":\"Accent Color\",\"4_info\":\"Accent 2\",\"7_light\":\"Light\",\"8_dark\":\"Dark\",\"white\":\"White\"}"
+  - referenceName: "nav-bg-color"
+    name: "Navigation Background Color"
+    sort: 2
+    type: "dropdown"
+    value: "2_secondary"
+    description: "Background Color for Navitgation"
+    category: 4
+    options: "{\"1_primary\":\"Primary\",\"2_secondary\":\"Secondary\",\"3_success\":\"Accent Color\",\"4_info\":\"Accent 2\",\"7_light\":\"Light\",\"8_dark\":\"Dark\",\"white\":\"White\"}"
+  - referenceName: "sidebar-text-color"
+    name: "Sidebar Text Color"
+    sort: 2
+    type: "dropdown"
+    value: "8_dark"
+    description: "Text color for sidebar. Default: Dark"
+    category: 5
+    options: "{\"1_primary\":\"Primary\",\"2_secondary\":\"Secondary\",\"3_success\":\"Accent Color\",\"4_info\":\"Accent 2\",\"7_light\":\"Light\",\"8_dark\":\"Dark\",\"white\":\"White\"}"
+  - referenceName: "btn-font-size"
+    name: "Button Font Size"
+    sort: 2
+    type: "text"
+    value: "14px"
+    description: null
+    category: 6
+    options: null
+  - referenceName: "nav-active-link-color"
+    name: "Navigation Active Link Color"
+    sort: 2
+    type: "dropdown"
+    value: "3_success"
+    description: "Text color for navigation used on hover and on active page"
+    category: 4
+    options: "{\"1_primary\":\"Primary\",\"2_secondary\":\"Secondary\",\"3_success\":\"Accent Color\",\"4_info\":\"Accent 2\",\"7_light\":\"Light\",\"8_dark\":\"Dark\",\"white\":\"White\"}"
+  - referenceName: "accent-color"
+    name: "Accent Color"
+    sort: 3
+    type: "color"
+    value: "#1ed2e2"
+    description: null
+    category: 1
+    options: null
+  - referenceName: "font-size-base"
+    name: "Default Font Size"
+    sort: 3
+    type: "text"
+    value: "16px"
+    description: "Base font size. Use rem units. Increasing/decreasing this size will increase all text accordingly. Default: 1rem"
+    category: 2
+    options: null
+  - referenceName: "link-text-decoration"
+    name: "Link Text Decoration"
+    sort: 3
+    type: "dropdown"
+    value: "0"
+    description: null
+    category: 3
+    options: "{\"none\":\"None\",\"underline\":\"Underline\"}"
+  - referenceName: "nav-font-color"
+    name: "Navigation Font Color"
+    sort: 3
+    type: "dropdown"
+    value: "1_primary"
+    description: "Text Color for Navitgation"
+    category: 4
+    options: "{\"1_primary\":\"Primary\",\"2_secondary\":\"Secondary\",\"3_success\":\"Accent Color\",\"4_info\":\"Accent 2\",\"7_light\":\"Light\",\"8_dark\":\"Dark\",\"white\":\"White\"}"
+  - referenceName: "sidebar-link-hover-color"
+    name: "Sidebar Link Hover Color"
+    sort: 3
+    type: "dropdown"
+    value: "1_primary"
+    description: "Background color for sidebar on hover. Default: Primary"
+    category: 5
+    options: "{\"1_primary\":\"Primary\",\"2_secondary\":\"Secondary\",\"3_success\":\"Accent Color\",\"4_info\":\"Accent 2\",\"7_light\":\"Light\",\"8_dark\":\"Dark\",\"white\":\"White\"}"
+  - referenceName: "accent2"
+    name: "Accent 2"
+    sort: 4
+    type: "color"
+    value: "#e1652f"
+    description: null
+    category: 1
+    options: null
+  - referenceName: "h1-f0bcf4c2db-9rft7b"
+    name: "H1 Line Height"
+    sort: 4
+    type: "text"
+    value: "1.2"
+    description: "Use no units. Default: 1.2"
+    category: 2
+    options: null
+  - referenceName: "sidebar-hover-text-color"
+    name: "Sidebar Hover Text Color"
+    sort: 4
+    type: "dropdown"
+    value: "white"
+    description: "Text color for sidebar on hover. Default: White"
+    category: 5
+    options: "{\"1_primary\":\"Primary\",\"2_secondary\":\"Secondary\",\"3_success\":\"Accent Color\",\"4_info\":\"Accent 2\",\"7_light\":\"Light\",\"8_dark\":\"Dark\",\"white\":\"White\"}"
+  - referenceName: "paragraph-line-height"
+    name: "Paragraph Line Height"
+    sort: 5
+    type: "text"
+    value: "1.5"
+    description: "Use no units. Default: 1.5"
+    category: 2
+    options: null
+  - referenceName: "logo-height-desktop"
+    name: "Logo Height Desktop"
+    sort: 5
+    type: "text"
+    value: "90px"
+    description: null
+    category: 4
+    options: null
+  - referenceName: "paragraph-margin-bottom"
+    name: "Paragraph Margin Bottom"
+    sort: 6
+    type: "text"
+    value: "1rem"
+    description: "Use rem units. Default: 1rem"
+    category: 2
+    options: null
+  - referenceName: "logo-height-mobile"
+    name: "Logo Height Mobile"
+    sort: 6
+    type: "text"
+    value: "60px"
+    description: null
+    category: 4
+    options: null
+  - referenceName: "dark"
+    name: "Dark"
+    sort: 7
+    type: "color"
+    value: "#242322"
+    description: null
+    category: 1
+    options: null
+  - referenceName: "light"
+    name: "Light"
+    sort: 8
+    type: "color"
+    value: "#f5f5fc"
+    description: null
+    category: 1
+    options: null
+  - referenceName: "headings-font-family"
+    name: "Heading Font"
+    sort: 9
+    type: "font_picker"
+    value: "Poppins:wght@100;400;700&display"
+    description: "NULL"
+    category: 2
+    options: null
+  - referenceName: "headings-color"
+    name: "H1 Heading Color"
+    sort: 10
+    type: "dropdown"
+    value: "1_primary"
+    description: "Your option to repeat the uploaded image infinitely, repeat it on the y/x axis, or no repeat at all."
+    category: 2
+    options: "{\"1_primary\":\"Primary\",\"2_secondary\":\"Secondary\",\"3_success\":\"Accent Color\",\"4_info\":\"Accent 2\",\"7_light\":\"Light\",\"8_dark\":\"Dark\",\"white\":\"White\"}"
+  - referenceName: "h1-font-size"
+    name: "H1 Font Size"
+    sort: 11
+    type: "text"
+    value: "38px"
+    description: "NULL"
+    category: 2
+    options: null
+  - referenceName: "h1-9ed7a9c3db-6b6jkc"
+    name: "H1 Font Weight"
+    sort: 12
+    type: "dropdown"
+    value: "500"
+    description: "NULL"
+    category: 2
+    options: "{\"100\":\"100\",\"200\":\"200\",\"300\":\"300\",\"400\":\"400\",\"500\":\"500\",\"600\":\"600\",\"700\":\"700\",\"800\":\"800\",\"900\":\"900\"}"
+  - referenceName: "h2-color"
+    name: "H2 Heading Color"
+    sort: 13
+    type: "dropdown"
+    value: "1_primary"
+    description: "Your option to repeat the uploaded image infinitely, repeat it on the y/x axis, or no repeat at all."
+    category: 2
+    options: "{\"1_primary\":\"Primary\",\"2_secondary\":\"Secondary\",\"3_success\":\"Accent Color\",\"4_info\":\"Accent 2\",\"7_light\":\"Light\",\"8_dark\":\"Dark\",\"white\":\"White\"}"
+  - referenceName: "h3-color"
+    name: "H3 Heading Color"
+    sort: 13
+    type: "dropdown"
+    value: "1_primary"
+    description: "Your option to repeat the uploaded image infinitely, repeat it on the y/x axis, or no repeat at all."
+    category: 2
+    options: "{\"1_primary\":\"Primary\",\"2_secondary\":\"Secondary\",\"3_success\":\"Accent Color\",\"4_info\":\"Accent 2\",\"7_light\":\"Light\",\"8_dark\":\"Dark\",\"white\":\"White\"}"
+  - referenceName: "h4-color"
+    name: "H4 Heading Color"
+    sort: 13
+    type: "dropdown"
+    value: "1_primary"
+    description: "Your option to repeat the uploaded image infinitely, repeat it on the y/x axis, or no repeat at all."
+    category: 2
+    options: "{\"1_primary\":\"Primary\",\"2_secondary\":\"Secondary\",\"3_success\":\"Accent Color\",\"4_info\":\"Accent 2\",\"7_light\":\"Light\",\"8_dark\":\"Dark\",\"white\":\"White\"}"
+  - referenceName: "h5-color"
+    name: "H5 Heading Color"
+    sort: 13
+    type: "dropdown"
+    value: "1_primary"
+    description: "Your option to repeat the uploaded image infinitely, repeat it on the y/x axis, or no repeat at all."
+    category: 2
+    options: "{\"1_primary\":\"Primary\",\"2_secondary\":\"Secondary\",\"3_success\":\"Accent Color\",\"4_info\":\"Accent 2\",\"7_light\":\"Light\",\"8_dark\":\"Dark\",\"white\":\"White\"}"
+  - referenceName: "h6-color"
+    name: "H6 Heading Color"
+    sort: 13
+    type: "dropdown"
+    value: "1_primary"
+    description: "Your option to repeat the uploaded image infinitely, repeat it on the y/x axis, or no repeat at all."
+    category: 2
+    options: "{\"1_primary\":\"Primary\",\"2_secondary\":\"Secondary\",\"3_success\":\"Accent Color\",\"4_info\":\"Accent 2\",\"7_light\":\"Light\",\"8_dark\":\"Dark\",\"white\":\"White\"}"
+  - referenceName: "h2-font-size"
+    name: "H2 Font Size"
+    sort: 14
+    type: "text"
+    value: "24px"
+    description: "NULL"
+    category: 2
+    options: null
+  - referenceName: "h3-font-size"
+    name: "H3 Font Size"
+    sort: 14
+    type: "text"
+    value: "38px"
+    description: "NULL"
+    category: 2
+    options: null
+  - referenceName: "h4-font-size"
+    name: "H4 Font Size"
+    sort: 14
+    type: "text"
+    value: "24px"
+    description: "NULL"
+    category: 2
+    options: null
+  - referenceName: "h5-font-size"
+    name: "H5 Font Size"
+    sort: 14
+    type: "text"
+    value: "38px"
+    description: "NULL"
+    category: 2
+    options: null
+  - referenceName: "h6-font-size"
+    name: "H6 Font Size"
+    sort: 14
+    type: "text"
+    value: "38px"
+    description: "NULL"
+    category: 2
+    options: null
+  - referenceName: "h2-dadbf7c2db-fs21hr"
+    name: "H2 Font Weight"
+    sort: 15
+    type: "dropdown"
+    value: "700"
+    description: "NULL"
+    category: 2
+    options: "{\"100\":\"100\",\"200\":\"200\",\"300\":\"300\",\"400\":\"400\",\"500\":\"500\",\"600\":\"600\",\"700\":\"700\",\"800\":\"800\",\"900\":\"900\"}"
+  - referenceName: "h3-90f2f8c2db-c94qvs"
+    name: "H3 Font Weight"
+    sort: 15
+    type: "dropdown"
+    value: "700"
+    description: "NULL"
+    category: 2
+    options: "{\"100\":\"100\",\"200\":\"200\",\"300\":\"300\",\"400\":\"400\",\"500\":\"500\",\"600\":\"600\",\"700\":\"700\",\"800\":\"800\",\"900\":\"900\"}"
+  - referenceName: "h4-9095fac2db-q9dt0j"
+    name: "H4 Font Weight"
+    sort: 15
+    type: "dropdown"
+    value: "500"
+    description: "NULL"
+    category: 2
+    options: "{\"100\":\"100\",\"200\":\"200\",\"300\":\"300\",\"400\":\"400\",\"500\":\"500\",\"600\":\"600\",\"700\":\"700\",\"800\":\"800\",\"900\":\"900\"}"
+  - referenceName: "h5-e8918fe6fc-9kn3kj"
+    name: "H5 Font Weight"
+    sort: 15
+    type: "dropdown"
+    value: "700"
+    description: "NULL"
+    category: 2
+    options: "{\"100\":\"100\",\"200\":\"200\",\"300\":\"300\",\"400\":\"400\",\"500\":\"500\",\"600\":\"600\",\"700\":\"700\",\"800\":\"800\",\"900\":\"900\"}"
+  - referenceName: "h6-c4d0fdc2db-wdt50f"
+    name: "H6 Font Weight"
+    sort: 15
+    type: "dropdown"
+    value: "500"
+    description: "NULL"
+    category: 2
+    options: "{\"100\":\"100\",\"200\":\"200\",\"300\":\"300\",\"400\":\"400\",\"500\":\"500\",\"600\":\"600\",\"700\":\"700\",\"800\":\"800\",\"900\":\"900\"}"

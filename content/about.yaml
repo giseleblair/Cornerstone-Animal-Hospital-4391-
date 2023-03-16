@@ -1,0 +1,23 @@
+
+  - id: "917f-7361-dc24"
+    web:
+      metaDescription: "Cornerstone Animal Hospital in Alto, GA, has been taking care of dogs, cats & other small animals since 2016. Call to schedule an appointment."
+      metaTitle: " Veterinary Clinic in Alto, GA"
+      metaLinkText: "About"
+      metaKeywords: null
+      pathPart: "about"
+      path: "/about/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 1
+      listed: true
+    data:
+      content: "<h1>Welcome to Cornerstone Animal Hospital</h1>\n<p>Cornerstone Animal Hospital&nbsp;is a full-service veterinary hospital servicing the&nbsp;Northeast Georgia&nbsp;area. As your Alto vet, we offer a complete range of veterinary services including, but not limited to:&nbsp;physical examinations, diagnosis and treatment, spay/neutering, vaccinations, dental care, surgical care, radiology, blood work, parasite prevention/control, and more.</p>\n<p>We are committed to offering top-quality veterinary care for our patients and exceptional customer service for our clients. Our veterinarians and staff understand that your pets are more than just pets; they are family. As fellow pet lovers and pet owners, we pride ourselves on treating your pets as if they are our own.</p>\n<h1>Your Pet's First Visit</h1>\n<p>Make sure to bring any previous medical records with you on your first visit. We also highly recommend a full physical exam on their first visit so that we may familiarize ourselves with your pet and establish a standard for future care. Our team will then work with you to figure out an appropriate schedule for care moving forward.</p>\n<p>Our top priority is to treat our patients with the utmost level of care and to inform our clients regarding all aspects of of their pet's health moving forward. Our team is kind, dedicated, and professional and we cannot wait to meet you and your animals! Give us a call today to schedule an appointment.</p>\n<h1>Large Animal Veterinary Services</h1>\n<p>As your Alto vet, we offer services for&nbsp;large animals&nbsp;as well. This includes vaccinations, deworming, wellness exams, microchipping, pre-purchase exams,&nbsp;<span id=\"ctl00_ctl00_ctl00_MainContent_Content_IssueFields_Description\">mobile large animal radiology</span>, and more for horses, cattle, and pigs!</p>\n<p></p>"
+      display_testimonials: 1
+      image: "https://b3lcpxnn.media.zestyio.com/HomePage-e1582562363385.jpg"
+      team_section_title: "Meet the team!"
+      title: "About Us"

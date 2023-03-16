@@ -1,0 +1,21 @@
+
+  - id: "bdef-f8f2-a290"
+    web:
+      metaDescription: "Choose Cornerstone Animal Hospital in Alto, GA, for your pet care provider! We treat cats, dogs & other small animals. Call today! "
+      metaTitle: "Pet Doctor in Alto, GA"
+      metaLinkText: "Contact"
+      metaKeywords: null
+      pathPart: "contact"
+      path: "/contact/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 4
+      listed: true
+    data:
+      content: "<h2>Emergencies:</h2>\n<p>For after hour emergencies, please remain calm and call our hospital: <br />(706) 778-0500</p>"
+      google_maps_embed: "<iframe src=\"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13156.221369039155!2d-83.590061!3d34.4761203!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x8f57630681d24c45!2sCornerstone%20Animal%20Hospital!5e0!3m2!1sen!2sus!4v1612822152769!5m2!1sen!2sus\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0;\" allowfullscreen=\"\" aria-hidden=\"false\" tabindex=\"0\"></iframe>"
+      title: "Contact Us"

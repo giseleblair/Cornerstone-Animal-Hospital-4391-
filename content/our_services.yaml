@@ -1,0 +1,23 @@
+
+  - id: "b2c2-9a9d-12ab"
+    web:
+      metaDescription: "When you bring your pet to Cornerstone Animal Hospital in Alto, GA, you can take comfort in knowing that they will receive the best care available."
+      metaTitle: "Dog & Cat Veterinarian in Alto, GA."
+      metaLinkText: "Services"
+      metaKeywords: null
+      pathPart: "our-services"
+      path: "/our-services/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 2
+      listed: true
+    data:
+      content: "<h1>Learn about our services!</h1>\n<p>Because of the shorter lifespan of our pets, we stress the importance of an annual physical examination with other vet services. Thorough check-ups and preventive care vet services can help alleviate serious health problems.</p>\n<p>We offer a wide range of veterinary services to keep your companions feeling their best:</p>"
+      display_faqs_section: 0
+      display_testimonials: 1
+      image: "https://ddp2ys.media.zestyio.com/dog-harness-blue-eyes-puppy-outside.jpeg"
+      title: "Small Animal Services"

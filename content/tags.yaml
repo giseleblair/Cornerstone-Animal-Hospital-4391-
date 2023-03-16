@@ -1,0 +1,55 @@
+
+  - id: "561e-4c74-4f1e"
+    web:
+      metaDescription: ""
+      metaTitle: "Tag 2"
+      metaLinkText: "Tag 2"
+      metaKeywords: null
+      pathPart: "tag-2"
+      path: "/blog/tag-2/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/blog/"
+    meta:
+      sort: 27
+      listed: true
+    data:
+      title: "Tag2"
+  - id: "a82d-91d9-93e1"
+    web:
+      metaDescription: ""
+      metaTitle: "Tag 3"
+      metaLinkText: "Tag 3"
+      metaKeywords: null
+      pathPart: "tag-3"
+      path: "/blog/tag-3/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/blog/"
+    meta:
+      sort: 28
+      listed: true
+    data:
+      title: "Tag3"
+  - id: "7dc4-ffc6-b16c"
+    web:
+      metaDescription: ""
+      metaTitle: "Tag 1"
+      metaLinkText: "Tag 1"
+      metaKeywords: null
+      pathPart: "tag-1"
+      path: "/blog/tag-1/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/blog/"
+    meta:
+      sort: 26
+      listed: true
+    data:
+      title: "Tag1"

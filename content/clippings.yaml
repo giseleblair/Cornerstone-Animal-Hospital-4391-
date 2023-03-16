@@ -1,0 +1,34 @@
+
+  - id: "e885-c72b-285c"
+    web:
+      metaDescription: ""
+      metaTitle: null
+      metaLinkText: null
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 99
+      listed: true
+    data:
+      address: "285 Smithville Lane<br>\nAlto, GA 30510"
+      appointments_link: "44445425-073e-4db2-a685-c84dcfb5f305"
+      contact_email: "vet@cornerstoneanimal.net"
+      contact_phone: "(706) 778-0500"
+      display_newsletter_signup: 0
+      facebook: "https://www.facebook.com/cornerstoneanimal"
+      footer_text: "PetDesk with Zesty.io"
+      hours: "M-F 8:30am - 5:30pm<br>Sat 9:00am - 1:00pm 1st and 3rd Saturday of the month"
+      image_alt: "PetDesk.com Image"
+      instagram: " "
+      logo: "https://b3lcpxnn.media.zestyio.com/logo--1-.png"
+      petdesk_banner: "https://nq4q3441.media.zestyio.com/Screen-Shot-2020-09-30-at-5.01.59-PM.png"
+      petdesk_banner_link: "https://petdesk.com"
+      petdesk_id: ""
+      site_name: "Cornerstone Animal Hospital"
+      twitter: " "

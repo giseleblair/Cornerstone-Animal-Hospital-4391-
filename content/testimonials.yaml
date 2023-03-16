@@ -1,0 +1,81 @@
+
+  - id: "3a2f-4bc0-cd83"
+    web:
+      metaDescription: "\n\n\"If you need a veterinarian for small or large animals Dr. Allison will be there for you, Great staff also.\"\n\n\n\n"
+      metaTitle: "Happy To Serve Our Community"
+      metaLinkText: "Happy To Serve Our Community"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 112
+      listed: true
+    data:
+      content: "<div>\n<div>\n<div><span jscontroller=\"P7L8k\" jsaction=\"rcuQ6b:npT2md\">\"If you need a veterinarian for small or large animals Dr. Allison will be there for you, Great staff also.\"</span></div>\n<div></div>\n</div>\n</div>\n<div></div>"
+      sort_order: 4
+      title: "Happy To Serve Our Community"
+  - id: "7836-76c5-89e6"
+    web:
+      metaDescription: ""
+      metaTitle: "A Very Happy Client"
+      metaLinkText: "A Very Happy Client"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 10
+      listed: true
+    data:
+      content: "<div>\n<div>\n<div><span jscontroller=\"P7L8k\" jsaction=\"rcuQ6b:npT2md\"><span tabindex=\"-1\">\"Dr. Emily and Dr. Sam are amazing. You can go to them or they will come to you. We have been going to them for about 5 years now and they have never let us down. They are like family. We have unfortunately had to put several of our beloved pets down and they cried right along with us. They always check up on our pets and I highly recommend them. We just can't say enough good things about them and their staff. Love to all of them.\"</span></span></div>\n<div></div>\n</div>\n</div>\n<div></div>"
+      sort_order: 3
+      title: "We Care About Your Pet's Like Our Own"
+  - id: "d522-6acc-a3f5"
+    web:
+      metaDescription: ""
+      metaTitle: "Another Happy Client"
+      metaLinkText: "Another Happy Client"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 9
+      listed: true
+    data:
+      content: "<div>\n<div>\n<div><span jscontroller=\"P7L8k\" jsaction=\"rcuQ6b:npT2md\">\"The doctors and staff here are the best! They have seen us for an emergency because our one puppy is a giant goofball. They were able to figure out another puppy had allergies (lots) and what they were. He can now lead a healthy and happy life. We can't thank them enough for that alone.\"</span></div>\n<div></div>\n</div>\n</div>\n<div></div>"
+      sort_order: 2
+      title: "Another Happy Client"
+  - id: "1778-847a-faea"
+    web:
+      metaDescription: ""
+      metaTitle: "Happy Client"
+      metaLinkText: "Happy Client"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 8
+      listed: true
+    data:
+      content: "<div>\n<div>\n<div><span jscontroller=\"P7L8k\" jsaction=\"rcuQ6b:npT2md\"><span tabindex=\"-1\">\"Dr. Sam is great! She is friendly and knowledgeable. The office and staff are very professional and nice. I went there for a second opinion regarding my 14 yr old Maltese. He suffers from heart and kidneys and had a persistent cough for many months. Dr. Sam treated him with additional medicine and his coughing has stopped. My second opinion appointment resulted in trusting Cornerstone doctors to take care of my four dogs permanently. I am also pleased that they are available after hours, on weekends and on holidays too.\"</span></span></div>\n<div></div>\n</div>\n</div>\n<div></div>"
+      sort_order: 1
+      title: "Our Happy Clients"

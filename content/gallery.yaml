@@ -1,0 +1,20 @@
+
+  - id: "6c6c-96d0-dffa"
+    web:
+      metaDescription: ""
+      metaTitle: "Gallery"
+      metaLinkText: "Gallery"
+      metaKeywords: null
+      pathPart: "gallery"
+      path: "/gallery/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 6
+      listed: false
+    data:
+      content: "<h2>Quae cum essent dicta, discessimus.</h2>\n                          <p>Qui autem esse poteris, nisi te amor ipse ceperit? Ut pulsi recurrant? Nunc omni virtuti vitium contrario nomine opponitur. Sed fortuna fortis; Sed quod proximum fuit non vidit. Nonne odio multos dignos putamus, qui quodam motu aut statu videntur naturae legem et modum contempsisse? Immo videri fortasse. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M.</p>"
+      title: "Take a tour!"

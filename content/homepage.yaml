@@ -1,0 +1,36 @@
+
+  - id: "4c7e-86c3-f2e4"
+    web:
+      metaDescription: "Cornerstone Animal Hospital is locally owned & has been serving since 2016. Call now for reliable care for your dog or cat."
+      metaTitle: "Animal Hospital in Alto, GA"
+      metaLinkText: "Home"
+      metaKeywords: null
+      pathPart: "zesty_home"
+      path: "/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 0
+      listed: true
+    data:
+      about_section_content: ""
+      about_section_title: "Meet the team!"
+      below_the_fold_content: "<table border=\"1\" style=\"border-collapse: collapse; width: 100%;\">\n<tbody>\n<tr>\n<td style=\"width: 52.46913580246913%;\">\n<p>Cornerstone Animal Hospital&nbsp;is a full-service veterinary hospital servicing the&nbsp;Northeast Georgia&nbsp;area. As your Alto vet, we offer a complete range of veterinary services including, but not limited to:&nbsp;physical examinations, diagnosis and treatment, spay/neutering, vaccinations, dental care, surgical care, radiology, blood work, parasite prevention/control, and more.</p>\n</td>\n<td style=\"width: 47.53086419753087%;\">\n<p>We are committed to offering top-quality veterinary care for our patients and exceptional customer service for our clients. Our veterinarians and staff understand that your pets are more than just pets; they are family. As fellow pet lovers and pet owners, we pride ourselves on treating your pets as if they are our own.</p>\n<p style=\"text-align: left;\"></p>\n</td>\n</tr>\n</tbody>\n</table>"
+      below_the_fold_title: "Voted Best Veterinary Hospital and Dr. Emily Best Veterinarian for Readers Choice 2020"
+      button_link_external: ""
+      button_link_internal: "6d3b-531d-1cf7"
+      cta_background_image: "https://nq4q3441.media.zestyio.com/adam-griffith-sWkkIiTJMYc-unsplash.f1cb27a519bdb5b6ed34049a5b86e317.jpg"
+      cta_button_text: "Learn More"
+      cta_content: "<p>Find out about all of the awesome conveniences offered in our new PetDesk App. Download it free in the app store and simply create an account using the email you have on file with us at the clinic!</p>"
+      cta_image_color_overlay: 1
+      cta_new_tab: 0
+      cta_title: "A new way to manage your pet's health!"
+      display_faqs_section: 0
+      display_testimonials: 1
+      faqs_content: ""
+      faqs_image: ""
+      faqs_title: ""
+      faqs_video: ""

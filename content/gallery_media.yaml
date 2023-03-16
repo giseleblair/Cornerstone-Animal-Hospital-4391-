@@ -1,0 +1,67 @@
+
+  - id: "1ad7-1a19-d9ab"
+    web:
+      metaDescription: ""
+      metaTitle: "Page"
+      metaLinkText: "Page"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 25
+      listed: true
+    data:
+      alt_text: "vet video"
+      external_url_video: "https://www.youtube.com/watch?v=C9OMAX91oyw"
+      gallery_collection: "c00a-db75-0b60"
+      image: "https://nq4q3441.media.zestyio.com/Screen-Shot-2020-08-17-at-6.58.31-PM.png"
+      sort_order: 3
+  - id: "396c-7dcd-57ee"
+    web:
+      metaDescription: ""
+      metaTitle: "Page"
+      metaLinkText: "Page"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 24
+      listed: true
+    data:
+      alt_text: "Dalmatian"
+      external_url_video: ""
+      gallery_collection: "c00a-db75-0b60"
+      image: "https://nq4q3441.media.zestyio.com/pexels-samer-daboul-1216482.jpg"
+      sort_order: 1
+  - id: "69fb-4aa2-f6c7"
+    web:
+      metaDescription: ""
+      metaTitle: "Page"
+      metaLinkText: "Page"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 23
+      listed: true
+    data:
+      alt_text: "office photo"
+      external_url_video: ""
+      gallery_collection: "0f67-5a91-14b0"
+      image: "https://nq4q3441.media.zestyio.com/pexels-lean--jacobs-1461876.jpg"
+      sort_order: 1

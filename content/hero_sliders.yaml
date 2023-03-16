@@ -1,0 +1,79 @@
+
+  - id: "90c1-8508-ea55"
+    web:
+      metaDescription: ""
+      metaTitle: "Page"
+      metaLinkText: "Page"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 15
+      listed: true
+    data:
+      alt_text: "five schnauzer puppies "
+      body_text: "<p>Voted Best Veterinary Hospital and Dr. Emily Best Veterinarian for Readers Choice 2020</p>"
+      button_link_external: ""
+      button_link_internal: "917f-7361-dc24"
+      button_new_tab: 0
+      button_text: "Read More"
+      header_text: "Cornerstone Animal Hospital"
+      image: "https://b3lcpxnn.media.zestyio.com/71249191_2414342258824195_8536651511193665536_o.jpg"
+      sort_order: 1
+  - id: "2ade-d7ae-127c"
+    web:
+      metaDescription: ""
+      metaTitle: "Page"
+      metaLinkText: "Page"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 16
+      listed: true
+    data:
+      alt_text: "black cow and calf"
+      body_text: ""
+      button_link_external: ""
+      button_link_internal: ""
+      button_new_tab: 0
+      button_text: "Learn More"
+      header_text: "Large Animals"
+      image: "https://b3lcpxnn.media.zestyio.com/118848294_2718948145030270_4202160887409251342_o.r1Q99Va7u.jpg"
+      sort_order: 3
+  - id: "7a81-a3bb-ae48"
+    web:
+      metaDescription: ""
+      metaTitle: "Page"
+      metaLinkText: "Page"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 14
+      listed: true
+    data:
+      alt_text: "cat with paw in front of face"
+      body_text: ""
+      button_link_external: ""
+      button_link_internal: "bdef-f8f2-a290"
+      button_new_tab: 0
+      button_text: "Contact Us"
+      header_text: "Your Local Alto Veterinarian"
+      image: "https://ddp2ys.media.zestyio.com/pet-right-cat-laying.jpg"
+      sort_order: 2

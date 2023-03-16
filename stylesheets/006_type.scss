@@ -1,0 +1,96 @@
+
+//
+// Headings
+// Responsive font-size mixin
+@mixin rfs($fs, $important: false) {
+  // Cache $fs unit
+  $fs-unit: if(type-of($fs) == "number", unit($fs), false);
+
+  // Add !important suffix if needed
+  $rfs-suffix: if($important, " !important", "");
+}
+// The font-size & responsive-font-size mixin uses RFS to rescale font sizes
+@mixin font-size($fs, $important: false) {
+  @include rfs($fs, $important);
+}
+
+@mixin responsive-font-size($fs, $important: false) {
+  @include rfs($fs, $important);
+}
+
+//
+
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6 {
+  margin-bottom: 1rem;
+  font-family: $headings-font-family;
+  line-height: $h1-f0bcf4c2db-9rft7b;
+  color: theme-color($headings-color);
+}
+
+h1, .h1 { font-size: $h1-font-size; font-weight: $h2-dadbf7c2db-fs21hr;  }
+h2, .h2 { font-size: $h2-font-size; color: theme-color($h2-color); font-weight: $h2-dadbf7c2db-fs21hr; }
+h3, .h3 { font-size: $h3-font-size; color: theme-color($h3-color); font-weight: $h3-90f2f8c2db-c94qvs; }
+h4, .h4 { font-size: $h4-font-size; color: theme-color($h4-color); font-weight: $h4-9095fac2db-q9dt0j; }
+h5, .h5 { font-size: $h5-font-size; color: theme-color($h5-color); font-weight: $h5-e8918fe6fc-9kn3kj; }
+h6, .h6 { font-size: $h6-font-size; color: theme-color($h6-color); font-weight: $h6-c4d0fdc2db-wdt50f; }
+
+//Shadows
+.text-shadow-double{
+	text-shadow: 4px 3px 0px #fff, 9px 8px 0px rgba(0,0,0,0.15)
+}
+.text-shaddow-letterpress{
+	color: rgba(0,0,0,0.6);
+	text-shadow: 2px 2px 3px rgba(255,255,255,0.1);
+}
+.text-shadow-inset{
+	background-color: #666666;
+	-webkit-background-clip: text;
+	-moz-background-clip: text;
+	background-clip: text;
+	color: transparent;
+	text-shadow: rgba(255,255,255,0.5) 0px 3px 3px;
+}
+.text-shadow-emboss{
+	color: rgba(0,0,0,0.6);
+	text-shadow: 2px 8px 6px rgba(0,0,0,0.2),0px -5px 35px rgba(255,255,255,0.3);
+}
+.text-shadow-hero{
+	text-shadow: -10px 10px 0px #00e6e6,-20px 20px 0px #01cccc,-30px 30px 0px #00bdbd;
+}
+.text-shadow-read {
+	text-shadow: 0.075em 0.08em 0.1em rgba(0, 0, 0, 1);
+}
+.text-shadow{
+	text-shadow:1px 1px 10px #3d3d3d;
+}
+h1{
+    color: theme-color(primary);
+  }
+h2{
+    color: theme-color(secondary);
+}
+h3{
+    color: theme-color(info);
+}
+h4{
+  color: theme-color(secondary);
+}
+a{
+	color:theme-color($link-color);
+	text-decoration:$link-text-decoration;
+	&:hover{
+		color:theme-color-level($link-color,4);
+		text-decoration:$link-text-decoration;
+	}
+}
+ // auto created sidebar sectionlinks
+.sectionLinksHeader{
+	font-size: $font-size-base * 1.5;
+	a{
+	color: theme-color(info);
+	&:hover{
+		color: theme-color-level(info,4)
+	}
+}
+}
