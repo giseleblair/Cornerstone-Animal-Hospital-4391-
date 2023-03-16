@@ -10,7 +10,7 @@
         <div class="col-lg-3 col-md-6 footer-links">
           <h4>Useful Links</h4>
           <ul>
-            {{each navigation as nav where nav.parent_nav_item = 0 sort by sort_order}}
+            {{each navigation as nav where nav.nav_parent = 0 sort by sort_order}}
             <li><i class="bx bx-chevron-right"></i> <a href="{{if {nav.external_url} }}{{nav.external_link}}{{else}}{{truepath({nav.internal_link})}}{{end-if}}">{{nav.title}}</a></li>
             {{end-each}}
           </ul>
